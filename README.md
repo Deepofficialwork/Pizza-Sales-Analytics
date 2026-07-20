@@ -111,8 +111,7 @@ Images/dashboard.png
 
 Then uncomment the line below:
 
-markdown
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 
 ---
