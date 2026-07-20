@@ -102,17 +102,7 @@ The dataset contains transactional pizza sales information including:
 ---
 
 # 📷 Dashboard Preview
-
-> Save your dashboard screenshot inside the **Images** folder as:
-
-text
-Images/dashboard.png
-
-
-Then uncomment the line below:
-
-![Dashboard](Images/Dashboard.png)
-
+![Dashboard](Pizza_Sales_Analytics/Images/Dashboard.png)
 
 ---
 
